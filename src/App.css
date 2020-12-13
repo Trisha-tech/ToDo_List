@@ -1,0 +1,74 @@
+.app-container{
+ 
+  margin:auto;
+}
+.logo{
+  background-color: black;
+  height: 90px;
+  opacity: 90%;
+  text-align: center;
+}
+img{
+  width: 140px;
+  margin-top: -20px;
+  
+}
+.card{
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  
+}
+.card1{
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 8px;
+  padding: 5px;
+padding-left: 250px;
+
+}
+.card2{
+  max-width: 800px;
+  margin: auto;
+  
+  padding: 5px;
+
+
+}
+.todo{
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 8px;
+ 
+}
+.t1{
+  display: inline;
+}
+.input{
+ 
+  max-width: 900px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.i1{
+width: 450px;
+margin-bottom: 25px;
+margin-left: 225px;
+}
+.i2{
+  width: 450px;
+  margin-bottom: 25px;
+  margin-left: 225px;
+  }
+  .i3{
+    width: 450px;
+    margin-bottom: 25px;
+    margin-left: 225px;
+    
+    }
+    .i4{
+      width: 450px;
+      margin-bottom: 50px;
+      margin-left: 275px;
+      
+      }
